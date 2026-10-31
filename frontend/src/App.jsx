@@ -1025,7 +1025,7 @@ function InfoPage({ page, navigate }) {
       cards: [
         [
           "Pawan Singh",
-          "Team Leader,backend and frontend developer and FAV of Jacobain sir",
+          "Team Leader,backend and frontend developer ",
         ],
         [
           "RISHABH GUPTA",
