@@ -1,0 +1,30 @@
+﻿# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Database and private uploads
+*.db
+*.sqlite
+*.sqlite3
+backend/private_uploads/
+backend/uploads/
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+
+# Logs and system files
+*.log
+.DS_Store
+Thumbs.db
+
+# Local backup files
+backend/app.py.backup
+backend/app.py.backup2
