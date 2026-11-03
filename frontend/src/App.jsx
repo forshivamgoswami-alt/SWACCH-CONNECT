@@ -1024,8 +1024,8 @@ function InfoPage({ page, navigate }) {
         "A student-led civic technology project focused on practical community reporting.",
       cards: [
         [
-          "Pawan Singh",
-          "Team Leader,backend and frontend developer ",
+          "PAWAN SINGH",
+          "",
         ],
         [
           "RISHABH GUPTA",
@@ -1085,7 +1085,7 @@ function InfoPage({ page, navigate }) {
             </span>
 
             <div className="info-card-icon">
-              {["PS", "KS", "RG","VK"][index % 4]}
+              {["PS", "RG", "KS","VK"][index % 4]}
             </div>
 
             <h2>{title}</h2>
